@@ -35,9 +35,6 @@ allprojects {
     libAppCompat = 'com.android.support:appcompat-v7:25.3.1'
     libSupportDesign = 'com.android.support:design:25.3.1'
     libSupport = 'com.android.support:support-v4:25.3.1'
-    libPicasso = 'com.squareup.picasso:picasso:2.5.2'
-    libFabMakovkastar = 'com.melnykov:floatingactionbutton:1.3.0'
-    libFabFutureSimple = 'com.getbase:floatingactionbutton:1.9.0'
 
     //Testing libraries
     libRoboelectric = 'org.robolectric:robolectric:2.4'
